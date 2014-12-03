@@ -1,0 +1,23 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+#built application files
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# OSX files
+.DS_Store
+
+# Android Studio
+.gradle
+*.iml
